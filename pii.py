@@ -5,4 +5,4 @@ from pii import data_encryption, data_decryption
 
 
 
-spark = sparkSession.getOrCreate()
+spark = sparkSession.master("*").appName("Commit message change testing").getOrCreate()
