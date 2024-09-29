@@ -6,3 +6,8 @@ from pii import data_encryption, data_decryption
 
 
 spark = sparkSession.master("*").appName("Commit message change testing").getOrCreate()
+
+
+
+
+df = spark.createDataFrame()
