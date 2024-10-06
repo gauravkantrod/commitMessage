@@ -21,5 +21,5 @@ Replicate conflicts
 3. I am query 3
 4. I am query 4
 5. I am query 5
-6. I am query 6
+6. Now I have made changes in query 6
 """
