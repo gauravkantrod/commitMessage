@@ -17,4 +17,6 @@ spark.stop()
 """
 Replicate conflicts
 1. I am query 1
+2. I am query 2
+4. I am query 4
 """
