@@ -11,3 +11,10 @@ df = spark.createDataFrame()
 df.show()
 
 spark.stop()
+
+
+# *************************************************
+"""
+Replicate conflicts
+1. I am query 1
+"""
